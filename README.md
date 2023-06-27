@@ -27,6 +27,8 @@
 German, Turkish, Spanish, French, Italian
 
 ## Screenshot
+![image](history.png)
+
 ![image](text2text.png)
 
 ![image](img2img.png)
@@ -34,5 +36,3 @@ German, Turkish, Spanish, French, Italian
 ![image](in_painting.png)
 
 ![image](out_painting.png)
-
-![image](history.png)
