@@ -1,5 +1,7 @@
 # AI Stable Diffusion
 
+AI Stable Diffusion is a powerful image editing tool with advanced features. It ensures complete data privacy by keeping all processing on your local computer. The user-friendly interface and one-click installer make it easy to use. It offers various image transformation options, including in-painting and out-painting capabilities. You can track the generation history of your edits and upscale images to enhance their quality. With support for multiple image sizes and optimization for M1/M2 chips, it provides efficient performance. AI Stable Diffusion also allows negative prompts and offers advanced prompt options for precise control over the output. Additionally, it integrates with ControlNet for seamless integration into your workflow.
+
 ## Features
 * Complete data privacy - no data is sent to the cloud (unless you choose to upload an image)
 * User-friendly and intuitive UI with a one-click installer
