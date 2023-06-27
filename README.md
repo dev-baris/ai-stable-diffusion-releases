@@ -23,4 +23,16 @@
 * Python 3.8 or later installed
 * Xcode command-line tools: xcode-select --install
 
-## Multi Languages supported: German, Turkish, Spanish, French, Italian
+## Multi Languages supported: 
+German, Turkish, Spanish, French, Italian
+
+## Screenshot
+![image](text2text.png)
+
+![image](img2img.png)
+
+![image](in_painting.png)
+
+![image](out_painting.png)
+
+![image](history.png)
